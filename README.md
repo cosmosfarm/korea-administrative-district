@@ -6,7 +6,7 @@
 
 [위키백과](https://ko.wikipedia.org/wiki/%EB%8C%80%ED%95%9C%EB%AF%BC%EA%B5%AD%EC%9D%98_%ED%96%89%EC%A0%95_%EA%B5%AC%EC%97%AD)의 내용을 참고했습니다.
 
-- [코스모스팜 홈페이지](http://www.cosmosfarm.com/products/kboard)
+- [코스모스팜 홈페이지](http://www.cosmosfarm.com/)
 - [페이스북](https://www.facebook.com/cosmosfarm.sns)
 - [트위터](https://twitter.com/cosmosfarm)
 - [블로그](http://blog.cosmosfarm.com/)
