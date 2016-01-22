@@ -1,0 +1,16 @@
+{
+	"name": "korea-administrative-district",
+	"version": "1.0",
+	"url": "https://github.com/cosmosfarm/korea-administrative-district",
+	"data":[
+		{"서울특별시":[
+			"종로구", "중구"
+		]},
+		{"부산광역시":[
+			"중구"
+		]},
+		{"인천광역시":[
+			"중구"
+		]}
+	]
+}
